@@ -7,7 +7,6 @@ public class Hello{
         Student student = new Student();
         System.out.println(student.age);
     }
-    
 }
 class Student{
     int age;
