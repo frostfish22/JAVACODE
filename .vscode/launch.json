@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "蓝桥杯算法题.Main",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "Main",
             "projectName": "JAVAcode_c6e9adbb"
         },
