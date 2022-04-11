@@ -4,11 +4,11 @@ package 三大接口;
 public class Main{
     
 }
-class Student implements Comparable<Student>{
+class Student1 implements Comparable<Student>{
     public int age;
     public String name;
     public double score;
-    public Student(int age, String name, double score){
+    public Student1(int age, String name, double score){
         this.name = name;
         this.score = score;
         this.age = age;
