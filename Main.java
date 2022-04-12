@@ -53,7 +53,7 @@ class processMenu{
             Collections.sort(link,new compareAt_St());
         }
     }
-    public void SJF(){
+    public void SJF(){//短作业优先
         ProcessQueue pq = new ProcessQueue();
         pq.EnqueueLast();
         System.out.println("******************************************");
@@ -75,7 +75,7 @@ class processMenu{
             Collections.sort(link, new compareRt());
         }
     }
-    public void RR(){
+    public void RR(){//时间片轮转算法
         ProcessQueue pq = new ProcessQueue();
         pq.EnqueueLast();
         System.out.println("******************************************");

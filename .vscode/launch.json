@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SaxDemo",
+            "request": "launch",
+            "mainClass": "文件数据解析.XML.SaxDemo",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
+            "name": "Launch DomDemo",
+            "request": "launch",
+            "mainClass": "文件数据解析.XML.DomDemo",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
             "name": "Launch TestDemo",
             "request": "launch",
             "mainClass": "三大接口.TestDemo",
