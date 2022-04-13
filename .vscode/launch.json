@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JavaAPIDemo",
+            "request": "launch",
+            "mainClass": "Java常用类.JavaAPIDemo",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
             "name": "Launch SaxDemo",
             "request": "launch",
             "mainClass": "文件数据解析.XML.SaxDemo",
