@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JavaAPIDemo2",
+            "request": "launch",
+            "mainClass": "Java常用类.JavaAPIDemo2",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
             "name": "Launch JavaAPIDemo1",
             "request": "launch",
             "mainClass": "Java常用类.JavaAPIDemo1",
