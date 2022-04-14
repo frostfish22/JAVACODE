@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Clock1",
+            "request": "launch",
+            "mainClass": "Clock1",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Clock",
+            "request": "launch",
+            "mainClass": "Clock",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
             "name": "Launch JavaAPIDemo2",
             "request": "launch",
             "mainClass": "Java常用类.JavaAPIDemo2",
