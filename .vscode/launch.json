@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JUCDemo1",
+            "request": "launch",
+            "mainClass": "JUC并发编程.JUCDemo1",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
             "name": "Launch JUCDemo",
             "request": "launch",
             "mainClass": "JUC并发编程.JUCDemo",
