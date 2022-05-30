@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch try22",
+            "request": "launch",
+            "mainClass": "Lamdba.try22",
+            "projectName": "JAVAcode_c6e9adbb"
+        },
+        {
+            "type": "java",
             "name": "Launch JUCDemo3",
             "request": "launch",
             "mainClass": "JUC并发编程.JUCDemo3",
